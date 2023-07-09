@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Job Portal**
 
-- 💬 Ask me about **React, Next.js, Node/Express.js**
+- 💬 Ask me about **React, Next.js, javaScript, Node/Express.js**
 
 - 📫 How to reach me **adoring.alis4249@gmail.com**
 
